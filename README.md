@@ -1,2 +1,0 @@
-# NUDataScienceBootCamp
-2019
